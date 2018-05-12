@@ -1,0 +1,29 @@
+_repo: The-Personal-Life-of-David-Livingstone--13-Chiefly-from-his-Unpublished-Journals-and-Correspo__13262
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blaikie, William Garden
+    alias: Blaikie, W. G. (William Garden)
+    birthdate: 1820
+    deathdate: 1899
+    gutenberg_agent_id: '4965'
+    url: http://www.gutenberg.org/2009/agents/4965
+    wikipedia: http://en.wikipedia.org/wiki/William_Garden_Blaikie
+description: ''
+gutenberg_issued: '2004-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13262'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Livingstone, David, 1813-1873'
+title: "The Personal Life of David Livingstone\r\nChiefly from his Unpublished Journals\
+  \ and Correspondence in the Possession of His Family"
+url: http://www.gutenberg.org/ebooks/13262
