@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4965
     wikipedia: http://en.wikipedia.org/wiki/William_Garden_Blaikie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13262#The-Personal-Life-of-David-Livingstone--13-Chiefly-from-his-Unpublished-Journals-and-Correspo_
 gutenberg_issued: '2004-08-23'
 gutenberg_type: Text
 identifiers:
